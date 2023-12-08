@@ -1,7 +1,7 @@
 
 ![beautiful](https://github.com/Crystal8029/Crystal8029/assets/86389201/a942a74f-ed9a-4703-8bbc-a0dca5849a87)
 
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Crystal8029/Crystal8029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🔭 Now I'm learning Swift, but I still create Python games with my friends at school.
 
-# Some things to know about me...
+### Some things to know about me...
 
 * I like coding games, apps, websites, etc. 
 * A hobby of mine is using DALL E to generate beautiful photos, you should try it out!
