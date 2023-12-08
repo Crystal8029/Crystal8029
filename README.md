@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I'm just a young coder over here... 
 
-🤔 Started learning code when I was 9, and I'm no older than I was before :)
+🤔 Started learning code when I was 9 :)
 
 💬 I started with JS... etc.
 
@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 * I like coding games, apps, websites, etc. 
 * A hobby of mine is using DALL E to generate beautiful photos, you should try it out!
 * I also love cooking, though it might not taste the best...
-* I love dogs. I even own a baby Maltipoo of my own called Sugar. <img width="1012" alt="bestdogever" src="https://github.com/Crystal8029/Crystal8029/assets/86389201/2ce921e3-bd2e-4cda-b66a-e8b0c50a2b8f">
+* I love dogs. I even own a baby Maltipoo of my own called Sugar. <img width="800" alt="bestdogever" src="https://github.com/Crystal8029/Crystal8029/assets/86389201/2ce921e3-bd2e-4cda-b66a-e8b0c50a2b8f">
+
+Fun Fact: My profile picture is actually of my dog at 2 months of age.  
