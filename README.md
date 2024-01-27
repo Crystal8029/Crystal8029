@@ -1,7 +1,7 @@
 
 ![beautiful](https://github.com/Crystal8029/Crystal8029/assets/86389201/a942a74f-ed9a-4703-8bbc-a0dca5849a87)
 
-# Hello
+# Hello!
 
 <!--
 **Crystal8029/Crystal8029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
